@@ -1,1 +1,2 @@
 1. Belajar basic dan concept tentang GIT
+2. Semangat
